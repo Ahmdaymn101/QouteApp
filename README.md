@@ -1,0 +1,2 @@
+# QouteApp
+Random qenerated qoutes
